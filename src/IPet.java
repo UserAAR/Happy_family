@@ -1,4 +1,4 @@
-package Happy_family_hw1;
+package Happy_family_hw2;
 
 public interface IPet {
 //    (eat) (method displays a message 'I am eating')
